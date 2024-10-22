@@ -90,7 +90,8 @@ bottomSections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: >-
+    /images/the-illustration-graphic-consists-of-abstract-background-with-a-blue-gradient-dynamic-shapes-composition-eps10-perfect-for-presentation-background-website-landing-page-wallpaper-vector.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
