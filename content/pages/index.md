@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /personal-nextjs-theme-screenshot-2x.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
