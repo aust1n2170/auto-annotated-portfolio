@@ -67,7 +67,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: React
+        label: Python
         url: ''
       - type: Label
         label: Microsoft Office
