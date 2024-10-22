@@ -72,7 +72,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Company
           isRequired: true
           width: 1/2
           type: TextFormControl
