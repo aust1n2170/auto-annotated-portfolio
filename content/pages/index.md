@@ -16,16 +16,7 @@ sections:
     subtitle: >-
       Full time Computer Science and Mathematics student at Boston College,
       full-stack developer-in-training
-    actions:
-      - type: Button
-        label: ''
-        altText: ''
-        url: 'https://austinvngo.com'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
