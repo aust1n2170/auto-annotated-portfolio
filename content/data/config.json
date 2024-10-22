@@ -1,9 +1,9 @@
 {
     "type": "Config",
-    "favicon": "/images/contact.jpg",
+    "favicon": "/images/6c5713f73e920f51d969159727786f26.webp",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Personal",
         "isTitleVisible": true,
@@ -24,7 +24,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/aust1n2170",
                 "icon": "github"
             },
             {
