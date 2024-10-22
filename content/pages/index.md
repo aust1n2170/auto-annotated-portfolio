@@ -116,7 +116,7 @@ sections:
         label: Perl
         url: ''
       - type: Label
-        label: Pancakes
+        label: MongoDB
         url: ''
       - type: Label
         label: C++
