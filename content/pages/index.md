@@ -39,5 +39,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: ''
+    text: |+
+      B.S. Computer Science and Mathematics - Boston College
+
 ---
