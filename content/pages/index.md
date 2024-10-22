@@ -113,7 +113,7 @@ sections:
         label: Kotlin
         url: ''
       - type: Label
-        label: Netlify
+        label: Perl
         url: ''
       - type: Label
         label: Pancakes
