@@ -101,30 +101,6 @@ sections:
     variant: variant-a
     title: Skills
     text: |+
-      ###### **Programming**
-
-      ###### Java
-
-      ###### JavaScript *React.js, Next.js*
-
-      ###### Kotlin
-
-      ###### Python
-
-      ###### C++
-
-      ###### Perl
-
-      ######
-
-      ###### **Software**
-
-      ###### MongoDB
-
-      ###### Kubernetes
-
-      ###### Docker
-
       ######
 
     elementId: ''
