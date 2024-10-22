@@ -55,7 +55,6 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/kisspng-boston-college-law-school-connell-school-of-nursin-5b4d8620166824.4594395815318072640918.jpg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
