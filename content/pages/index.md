@@ -69,7 +69,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ABOUT ME
-    text: >
+    text: >+
       I am a motivated second-year student at Boston College majoring in
       Computer Science and Mathematics. I am currently pursuing CompTIA
       security+ and network+ certifications with the goal of diversifying my
@@ -79,6 +79,29 @@ sections:
 
       Outside of school, I enjoy weightlifting, motorsports, music and
       photography! Feel free to contact me at ***`ngoau@bc.edu`***
+
+
+      ***``***
+
+
+      ***`Skills:`***
+
+
+      ***`Programming:`***
+
+
+      *`Java (Spring, Maven), JavaScript (React.js, Next.js), Kotlin, python,
+      C++, Perl`*
+
+
+      *``*
+
+
+      ***`Software:`***
+
+
+      *`MongoDB, Kubernetes, Docker`*
+
     elementId: ''
     styles:
       self:
