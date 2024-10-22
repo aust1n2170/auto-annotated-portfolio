@@ -63,17 +63,16 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ABOUT ME
-    text: >+
+    text: >
       I am a motivated second-year student at Boston College majoring in
       Computer Science and Mathematics. I am currently pursuing CompTIA
       security+ and network+ certifications with the goal of diversifying my
       skillset as a full-stack software engineer and network systems
-      analyst/cyber analyst. 
+      analyst/cyber analyst.
 
 
       Outside of school, I enjoy weightlifting, motorsports, music and
-      photography! Feel free to contact me at `ngoau@bc.edu`
-
+      photography! Feel free to contact me at ***`ngoau@bc.edu`***
     elementId: ''
     styles:
       self:
