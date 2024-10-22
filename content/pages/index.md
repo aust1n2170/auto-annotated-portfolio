@@ -40,10 +40,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      **Education:**
+    text: |+
+      ###### **Education:**
 
-      *   B.S. Computer Science and Mathematics, Boston College (2023-2027)
+      ###### B.S. Computer Science and Mathematics, Boston College (2023-2027)
 
-      *   Thayer Academy, MA
+      ###### Thayer Academy, MA
+
 ---
