@@ -46,6 +46,12 @@ sections:
       ###### *B.S. Computer Science and Mathematics, Boston College (2023-2027)*
 
       ###### *Thayer Academy, MA*
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
