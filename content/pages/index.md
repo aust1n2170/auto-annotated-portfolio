@@ -57,7 +57,7 @@ sections:
     elementId: ''
     styles:
       self:
-        width: narrow
+        width: wide
         padding:
           - pt-36
           - pb-36
@@ -79,6 +79,27 @@ sections:
 
       Outside of school, I enjoy weightlifting, motorsports, music and
       photography! Feel free to contact me at ***`ngoau@bc.edu`***
+
+
+      ***
+
+
+      ***`Skills:`***
+
+
+      ***`Programming:`***
+
+
+      *`Java (Spring, Maven), JavaScript (React.js, Next.js), Kotlin, python,
+      C++, Perl`*
+
+
+
+
+      ***`Software:`***
+
+
+      *`MongoDB, Kubernetes, Docker`*
     elementId: ''
     styles:
       self:
