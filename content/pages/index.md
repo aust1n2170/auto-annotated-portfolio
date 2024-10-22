@@ -39,8 +39,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      asd
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
