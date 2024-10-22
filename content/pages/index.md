@@ -66,7 +66,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: ABOUT ME
     text: >
