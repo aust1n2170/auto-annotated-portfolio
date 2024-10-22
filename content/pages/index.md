@@ -41,7 +41,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      ## ***Education:***
+      #### ***Education:***
 
       ###### *B.S. Computer Science and Mathematics, Boston College (2023-2027)*
 
