@@ -3,7 +3,7 @@
     "favicon": "/images/contact.jpg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": true,
         "title": "Personal",
         "isTitleVisible": true,
