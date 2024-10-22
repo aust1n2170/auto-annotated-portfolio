@@ -18,7 +18,7 @@ sections:
       full-stack developer-in-training
     actions:
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: 'https://austinvngo.com'
         showIcon: false
