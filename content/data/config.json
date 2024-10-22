@@ -11,12 +11,12 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "/projects"
+                "url": ""
             },
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": ""
             }
         ],
         "socialLinks": [
