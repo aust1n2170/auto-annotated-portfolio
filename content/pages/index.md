@@ -70,7 +70,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: address
-          label: Company
+          label: Address
           hideLabel: true
           placeholder: Address
           isRequired: true
