@@ -96,31 +96,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Skills
-    text: |+
-      ######
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-9
-          - pb-9
-          - pl-4
-          - pr-4
-        justifyContent: center
-        margin:
-          - mr-0
-        borderRadius: none
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
