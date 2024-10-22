@@ -51,7 +51,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "capitalize",
-        "letterSpacing": "tighter"
+        "letterSpacing": "wider"
     },
     "buttonPrimary": {
         "weight": "normal",
