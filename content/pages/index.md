@@ -81,7 +81,7 @@ sections:
       photography! Feel free to contact me at ***`ngoau@bc.edu`***
 
 
-      ******
+      ***
 
 
       ***`Skills:`***
@@ -94,7 +94,6 @@ sections:
       C++, Perl`*
 
 
-      **
 
 
       ***`Software:`***
