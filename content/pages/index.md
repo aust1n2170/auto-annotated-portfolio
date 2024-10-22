@@ -110,7 +110,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: MongoDB
+        label: Kotlin
         url: ''
       - type: Label
         label: Netlify
