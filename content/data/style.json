@@ -51,7 +51,7 @@
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "buttonPrimary": {
         "weight": "normal",
