@@ -39,6 +39,14 @@
                 "url": "https://www.instagram.com/austinvngo/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/austin-ngo-6391b31b8/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
