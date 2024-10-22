@@ -125,7 +125,7 @@ sections:
           - pb-28
           - pl-4
           - pr-4
-        justifyContent: flex-end
+        justifyContent: flex-start
         margin:
           - mr-0
       title:
