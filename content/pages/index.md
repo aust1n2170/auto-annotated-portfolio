@@ -101,19 +101,21 @@ sections:
     variant: variant-a
     title: Skills
     text: |+
-      **Programming**
+      ###### **Programming**
 
-      *   Java
+      ###### Java
 
-      *   JavaScript *React.js, Next.js*
+      ###### JavaScript *React.js, Next.js*
 
-      *   Kotlin
+      ###### Kotlin
 
-      *   Python
+      ###### Python
 
-      *   C++
+      ###### C++
 
-      *   Perl
+      ###### Perl
+
+      ######
 
     elementId: ''
     styles:
