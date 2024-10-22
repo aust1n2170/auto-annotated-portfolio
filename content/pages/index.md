@@ -4,7 +4,8 @@ title: Home
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-3.jpg
+  url: >-
+    /images/the-illustration-graphic-consists-of-abstract-background-with-a-blue-gradient-dynamic-shapes-composition-eps10-perfect-for-presentation-background-website-landing-page-wallpaper-vector.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -39,11 +40,10 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
+    text: |
       **Education:**
 
       *   B.S. Computer Science and Mathematics, Boston College (2023-2027)
 
       *   Thayer Academy, MA
-
 ---
