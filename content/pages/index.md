@@ -12,7 +12,9 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Austin Ngo
-    subtitle: Full time Computer Science and Mathematics student at Boston College
+    subtitle: >-
+      Full time Computer Science and Mathematics student at Boston College,
+      full-stack developer-in-training
     actions: []
     colors: colors-f
     backgroundSize: full
