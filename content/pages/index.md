@@ -40,11 +40,23 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
+    text: |
       ###### ***Education:***
 
       ###### *B.S. Computer Science and Mathematics, Boston College (2023-2027)*
 
       ###### *Thayer Academy, MA*
-
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
 ---
