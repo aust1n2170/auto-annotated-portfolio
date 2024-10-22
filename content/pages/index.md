@@ -100,15 +100,33 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Skills
-    text: |
+    text: |+
       ###### **Programming**
+
       ###### Java
+
       ###### JavaScript *React.js, Next.js*
+
       ###### Kotlin
+
       ###### Python
+
       ###### C++
+
       ###### Perl
+
       ######
+
+      ###### **Software**
+
+      ###### MongoDB
+
+      ###### Kubernetes
+
+      ###### Docker
+
+      ######
+
     elementId: ''
     styles:
       self:
