@@ -127,7 +127,7 @@ sections:
           - pr-4
         justifyContent: center
         margin:
-          - mr-11
+          - mr-0
       title:
         textAlign: left
       subtitle:
