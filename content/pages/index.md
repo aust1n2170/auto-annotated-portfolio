@@ -128,7 +128,7 @@ sections:
         justifyContent: flex-start
         margin:
           - mr-0
-        borderRadius: xx-small
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
